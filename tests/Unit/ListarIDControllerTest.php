@@ -16,13 +16,12 @@ class ListarIDControllerTest extends TestCase
      * @return void
      */
 
-
     
     public function test_listandoID()
     {
         $controller = new ListarIDController();
 
-        
+
         $controller->listandoID(11);
        
         $this->assertTrue(true);
