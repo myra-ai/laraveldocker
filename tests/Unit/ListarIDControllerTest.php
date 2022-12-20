@@ -28,10 +28,4 @@ class ListarIDControllerTest extends TestCase
 
     }
 
-    // public function test_souArray(){
-    //     $controller2 = new ListarIDController();
-    //     $controller2->souArray();
-    //     $this->assertCount(2, $controller2);
-
-    // }
 }
